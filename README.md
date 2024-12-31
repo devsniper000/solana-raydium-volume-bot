@@ -32,7 +32,7 @@ You can always feel free to find me here for my help on other projects.
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/sol-magic/solana-raydium-volume-bot
+git clone https://github.com/devsniper/solana-raydium-volume-bot
 cd solana-raydium-volume-bot
 ```
 2. Install dependencies
